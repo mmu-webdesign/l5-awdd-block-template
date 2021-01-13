@@ -1,8 +1,8 @@
-# SP1 Planning
+# SP1
 
-A scheduled meeting between the team and tutors. The team should be prepared and have the relevant documents available for tutors to review and provide feedback.
+A scheduled submission of documents to encourage a conversation between the team and tutors. The team should be prepared and have the relevant documents available for tutors to review and provide feedback.
 
-Marks are awarded for attendance, engagement and preparedness.
+Marks are awarded for preparedness.
 
 ---
 
@@ -11,45 +11,46 @@ Use this as a working document throughout the project to help manage these docum
 ## Documents
 
 ### SP1 planning document
-* author(s) -
-* status - 
-* actions -
 
+- author(s) -
+- status -
+- actions -
 
 ### Ideation Report
-* author(s) -
-* status - 
-* actions -
 
+- author(s) -
+- status -
+- actions -
 
 ### User Research Report
-* author(s) -
-* status - 
-* actions -
 
+- author(s) -
+- status -
+- actions -
 
 ### The Proposal
-* author(s) -
-* status - 
-* actions -
 
+- author(s) -
+- status -
+- actions -
 
 ### Competitor Analysis
-* author(s) -
-* status - 
-* actions -
 
+- author(s) -
+- status -
+- actions -
 
 ### Personas
-* author(s) -
-* status - 
-* actions -
 
+- author(s) -
+- status -
+- actions -
 
 ### User Storyboards
-* author(s) -
-* status - 
-* actions -
+
+- author(s) -
+- status -
+- actions -
 
 ### Notes
 
