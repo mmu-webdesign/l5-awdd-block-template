@@ -32,17 +32,17 @@ For Submission Point 5 all of the following documents need to be completed and i
 ### Advice on how to complete these documents
 
 - IA report · Synchronous
-  – Site plan · Asynchronous
+- Siteplan · Synchronous
 - Content delivery schedule · Asynchronous
 - DB Schema · Asynchronous
 
 ## Documents from SP3
 
-<!-- - [sp3-planning.md](3_Design_&_Prototyping/sp3-planning.md) -->
-
 - [mood-boards.md](3_Design_&_Prototyping/mood-boards.md)
 - [style_guide.html](3_Design_&_Prototyping/styleguide/style_guide.html)
 - [page-mockup.md](3_Design_&_Prototyping/page-mockup.md)
+
+### Advice on how to complete these documents
 
 - Mood boards · Asynchronous
 - Style guide · Asynchronous
@@ -71,8 +71,13 @@ Your finished website and the remaining elements of the portfolio:
 
 ### Advice on how to complete the QA documents
 
-### Final Documentation and individual statements
+- Accessibility audit · Asynchronous
+- Cross-browser testing · Asynchronous
+- Google translate report · Asynchronous
+- Quality audit · Asynchronous
+- Future developments · Synchronous
 
-**Peer assessment** forms to be completed in class as required.
+## Final Documentation and individual statements
 
-Each team member must upload their [Individual statement](5_QA_and_The_Guide/individual_statement.docx) to the relevant dropbox on Moodle.
+- **Peer assessment** forms to be completed in class as required.
+- Each team member must upload their [Individual statement](5_QA_and_The_Guide/individual_statement.docx) to the relevant dropbox on Moodle.
