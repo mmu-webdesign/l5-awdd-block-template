@@ -12,7 +12,13 @@
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
 
-## Assessment overview
+## TL;DR Assessment overview
+
+- Come up with an idea that's [relevant to the brief](the-brief.md)
+- [Create these documents](portfolio.md) to test your idea
+- Based on what you find out, make a website that works for the people who you think are your audience.
+
+## Longer Assessment overview
 
 > **IMPORTANT -[Read the assignment overview - The brief](the-brief.md)**.
 
