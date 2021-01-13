@@ -2,7 +2,7 @@
 
 For Submission Point 5 all of the following documents (i.e. anything with a link) need to be completed and in place to be assessed.
 
-## Documents presented for SP1
+## Documents presented for SP1 · Week 3
 
 - [Ideation report](1_User_and_Competitor_Research/ideation.md)
 - [Initial User Research report](1_User_and_Competitor_Research/user-research.md)
@@ -26,7 +26,7 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 - Personas · Asynchronous
 - Storyboards · Asynchronous
 
-## Documents presented for SP2
+## Documents presented for SP2 · Week 6
 
 - [Information Architecture (IA) report](2_IA_and_Content_Strategy/ia-report.md)
 - [Site plan](2_IA_and_Content_Strategy/siteplan.md)
@@ -40,7 +40,7 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 - Content delivery schedule · Asynchronous
 - DB Schema · Asynchronous
 
-## Documents from SP3
+## Documents from SP3 · Week 8
 
 - [Mood boards](3_Design_&_Prototyping/mood-boards.md)
 - [Style guide](3_Design_&_Prototyping/styleguide/style_guide.html)
@@ -52,7 +52,7 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 - Style guide · Asynchronous
 - Page mockup · Asynchronous
 
-## Documents created for SP4
+## Documents created for SP4 · Begin Week 10
 
 - [Usability Testing Report](4_Usability_Testing/usability_testing_report.md)
 - [Page mockup update](4_Usability_Testing/page-mockup-update.md)
@@ -61,7 +61,7 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 
 - All testing documents should be asynchronous: each member of the team should test at least one other person if possible.
 
-## Documents and code for SP5
+## Documents and code for SP5 · Complete before submission
 
 Your finished website and the remaining elements of the portfolio:
 
@@ -81,7 +81,7 @@ Your finished website and the remaining elements of the portfolio:
 - Quality audit · Asynchronous
 - Future developments · Synchronous
 
-## Final Documentation and individual statements
+## Final Documentation and individual statements · Before submission
 
 - **Peer assessment** forms to be completed in class as required.
-- Each team member must upload their [Individual statement](5_QA_and_The_Guide/individual_statement.docx) to the relevant dropbox on Moodle.
+- Each team member must upload their [individual statement](5_QA_and_The_Guide/individual_statement.docx) to the relevant dropbox on Moodle.
