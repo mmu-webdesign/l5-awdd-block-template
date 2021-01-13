@@ -1,0 +1,135 @@
+/* this is the layout for the style guide - you are free to change this if you want to */
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 1.35;
+    padding: 10px;
+    color: #222;
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        padding: 3em;
+    }
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+}
+
+.container {
+    border-top: 3px solid #eee;
+}
+
+.container h1 {
+    padding: 0.3em 0 1em 0;
+}
+
+.container h1 strong {
+    display: block;
+    font-size: 2.3em;
+    font-weight: 100;
+}
+
+section {
+    padding-bottom: 3em;
+}
+
+section h2 {
+    border-top: 1px solid #ddd;
+    padding: 0.3em 0 1em 0;
+}
+
+.type h3 {
+    padding: 0.3em 0 1.4em 0;
+    color: #666;
+    font-size: 2em;
+}
+
+section h3 {
+    padding-top: 2em;
+    color: #666;
+}
+
+section p {
+    max-width: 65ch;
+}
+
+.swatches {
+    display: flex;
+    flex-wrap: wrap;
+    color: #555;
+    padding-bottom: 3em;
+}
+
+@media screen and (min-width: 700px) {
+    .swatches {
+        flex-wrap: nowrap;
+    }
+}
+
+.swatches p.hex {
+    font-family: monospace;
+}
+
+.colour-swatch {
+    margin-right: 1em;
+}
+
+.swatch {
+    width: 100%;
+    margin: 1em 0;
+    min-height: 100px;
+    border: 1px solid #eee;
+}
+
+.type {
+    margin-bottom: 3em;
+}
+
+.type p.big-example {
+    font-size: 3em;
+    line-height: 1;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.type p.why {
+    color: #666;
+    margin-top: 1em;
+}
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image {
+    flex: 1 0 0;
+}
+
+.image+.image {
+    margin-left: 1em;
+}
+
+.images img {
+    max-width: 100%;
+    max-height: 90vh;
+    height: auto;
+    margin: 1em 0;
+}
