@@ -14,9 +14,9 @@
 
 ## TL;DR Assessment overview
 
-- Come up with an idea that's [relevant to the brief](the-brief.md)
-- [Create these documents](portfolio.md) to test your idea
-- Based on what you find out, make a website that works for the people who you think are your audience.
+- Come up with an idea that’s [relevant to the brief](the-brief.md).
+- [Create these documents](portfolio.md) to document why the website you will make works the way it does and why it has the content and design you’ve added to it.
+- Make a prototype of the website that looks good and works well.
 
 ## Longer Assessment overview
 
