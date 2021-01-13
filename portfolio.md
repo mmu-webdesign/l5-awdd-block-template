@@ -13,8 +13,7 @@ For Submission Point 5 all of the following documents need to be completed and i
 
 ### Advice on how to complete these documents
 
-- Synchronous: Everyone working together in real time.
-- Asynchronous: In Friday sessions give people (some of?) the work to complete in their own time - making sure they know what’s required - and the group reviews it later.
+**Synchronous** means everyone working together in real time, e.g. in your Teams breakout room. **Asynchronous**: for these tasks, try using Friday sessions to give people (some of?) the work to complete in their own time - making sure they know what’s required - and the group reviews it later.
 
 - Ideation · Synchronous
 - User research · Asynchronous
