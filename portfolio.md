@@ -1,15 +1,15 @@
 # Portfolio
 
-For Submission Point 5 all of the following documents need to be completed and in place to be assessed.
+For Submission Point 5 all of the following documents (i.e. anything with a link) need to be completed and in place to be assessed.
 
 ## Documents presented for SP1
 
-- [ideation.md](1_User_and_Competitor_Research/ideation.md)
-- [user-research.md](1_User_and_Competitor_Research/user-research.md)
-- [proposal.md](1_User_and_Competitor_Research/proposal.md)
-- [competitor-analysis.docx](1_User_and_Competitor_Research/competitor-analysis.docx)
-- [personas.md](1_User_and_Competitor_Research/personas.md)
-- [storyboards.md](1_User_and_Competitor_Research/storyboards.md)
+- [Ideation report](1_User_and_Competitor_Research/ideation.md)
+- [Initial User Research report](1_User_and_Competitor_Research/user-research.md)
+- [Client proposal](1_User_and_Competitor_Research/proposal.md)
+- [Competitor analysis](1_User_and_Competitor_Research/competitor-analysis.docx)
+- [Personas](1_User_and_Competitor_Research/personas.md)
+- [Storyboards](1_User_and_Competitor_Research/storyboards.md)
 
 ### Advice on how to complete these documents
 
@@ -28,10 +28,10 @@ For Submission Point 5 all of the following documents need to be completed and i
 
 ## Documents presented for SP2
 
-- [ia-report.md](2_IA_and_Content_Strategy/ia-report.md)
-- [siteplan.md](2_IA_and_Content_Strategy/siteplan.md)
-- [content-delivery-schedule.xlsx](2_IA_and_Content_Strategy/content-delivery-schedule.xlsx)
-- [schema.pdf](2_IA_and_Content_Strategy/schema.pdf)
+- [Information Architecture (IA) report](2_IA_and_Content_Strategy/ia-report.md)
+- [Site plan](2_IA_and_Content_Strategy/siteplan.md)
+- [Content Delivery Schedule](2_IA_and_Content_Strategy/content-delivery-schedule.xlsx)
+- [Database Schema](2_IA_and_Content_Strategy/schema.pdf)
 
 ### Advice on how to complete these documents
 
@@ -42,9 +42,9 @@ For Submission Point 5 all of the following documents need to be completed and i
 
 ## Documents from SP3
 
-- [mood-boards.md](3_Design_&_Prototyping/mood-boards.md)
-- [style_guide.html](3_Design_&_Prototyping/styleguide/style_guide.html)
-- [page-mockup.md](3_Design_&_Prototyping/page-mockup.md)
+- [Mood boards](3_Design_&_Prototyping/mood-boards.md)
+- [Style guide](3_Design_&_Prototyping/styleguide/style_guide.html)
+- [Page mockup](3_Design_&_Prototyping/page-mockup.md)
 
 ### Advice on how to complete these documents
 
@@ -55,7 +55,7 @@ For Submission Point 5 all of the following documents need to be completed and i
 ## Documents created for SP4
 
 - [Usability Testing Report](4_Usability_Testing/usability_testing_report.md)
-- [page-mockup-update.md](4_Usability_Testing/page-mockup-update.md)
+- [Page mockup update](4_Usability_Testing/page-mockup-update.md)
 
 ### Advice on how to complete these documents
 
