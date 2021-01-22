@@ -1,6 +1,6 @@
 # THE BRIEF - A Guide to Manchester
 
-Your tutors are acting as the client - in this scenario they are representing and making decisions on behalf of Manchester Metropolitan University.
+Your tutors are acting as the client - in this scenario, they represent and make decisions on behalf of Manchester Metropolitan University.
 
 ## Overview
 
@@ -26,7 +26,7 @@ You will develop an initial idea for your ‘guide’ in the early stages of the
 
 ### Images, text and video are ‘illustrative’
 
-**What do we mean by this?** The assignment does not require pages and pages of content: imagine what you are producing is an example of each type of page the site requires, and each user journey you have mapped out. This allows the client to use your example pages to brief some ‘in-house’ employees on how the rest of the site should be completed.
+**What do we mean by this?** The assignment does not require pages and pages of content: imagine what you are producing is an example of each type of page the site needs, and each user journey you have mapped out. This allows the client to use your example pages to brief some ‘in-house’ employees on how the rest of the site should be completed.
 
 They should represent the level of quality you expect anyone working on the site to reach: so provide high quality images, engaging, spell-checked and grammatical content, optimised images, commented code, and any other resources you would want if you were in the same position.
 
@@ -66,4 +66,4 @@ As well as building a web site you are creating a portfolio of evidence. Each of
 
 Using the briefs and mark sheets for each submission point in conjunction with this client brief will help ensure that you are delivering the required elements at each stage.
 
-**Any questions?** Ask the tutors at your next sprint meeting. Decide if it is it a question for the tutor or a question for the client.
+**Any questions?** Ask the tutors at your next sprint meeting.

@@ -40,7 +40,7 @@ These documents outline what you need to prepare before each submission point. Y
 
 ## Submission point marksheets
 
-These are the marksheets we will use to create our feedback to the group - use them as a way of preparing for each submission point: have you covered everything we will be assessing? What sort of mark do you think your work deserves?
+These are the marksheets we will use to create our feedback to the group - use them to prepare for each submission point: have you covered everything we will be assessing? What sort of mark do you think your work deserves?
 
 - [SP 1 Marksheet](marksheets/sp1-marksheet.docx) - User and Competitor research
 - [SP 2 Marksheet](marksheets/sp2-marksheet.docx) - IA and Content Strategy
