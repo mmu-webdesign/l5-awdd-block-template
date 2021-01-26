@@ -43,7 +43,7 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 ## Documents from SP3 · Week 8
 
 - [Mood boards](3_design_and_prototyping/mood-boards.md)
-- [Style guide](3_design_and_prototyping/styleguide/style_guide.html)
+- [Style guide](3_design_and_prototyping/style-guide.md)
 - [Page mockup](3_design_and_prototyping/page-mockup.md)
 
 ### Advice on how to complete these documents
