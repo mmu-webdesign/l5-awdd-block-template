@@ -2,9 +2,7 @@
 
 ## Submission Point Four
 
-In SP4 each team undertakes a usability testing session, self-managed, but overseen by tutors. The output is a report produced for SP5.
-
-**First - [Read through the instructions](#instructions)**
+In SP4 each team undertakes usability testing sessions, self-managed, but overseen by tutors. The output is a report capturing the issues found and an update version of your high-fidelity mock up created for SP3.
 
 ## Instructions
 
@@ -12,14 +10,9 @@ In SP4 each team undertakes a usability testing session, self-managed, but overs
 
 Submission Point 4 is a chance for your team to conduct remote usability testing.
 
-You should now have reached the stage where you have a basic design, content and structure for your `guide` web site. The group is now required to carry out usability testing and to get feedback on the success or failures of your current version, so that you can incorporate this feedback into your site design.
+You should now have reached the stage where you have a basic design, content and structure for your `guide` web site. The group is now required to carry out usability testing and to get feedback on the success or failures of your current high fidelity prototype, so that you can incorporate this feedback into your site design.
 
 Feedback from someone outside of your team can be invaluable to improve your work. It may highlight errors or inconsistencies; it may raise issues you had not previously noted. It might also confirm that you are doing (at least some) things right.
-
-### Essential Documents
-
-- [Usability Test Instructions](UX-testing/usability_test_instructions.md).
-- [Usability Test tips & advice](UX-testing/usability_testing_tips.md).
 
 ### How does this work?
 
@@ -39,11 +32,11 @@ You are required to develop a method for your test session. This may be face to 
 
 ## Usability testing consent form
 
-Customise the consent form (provided) for your test candidate to sign. This should include permission to record the session including video, audio and their actions on screen.
+Customise the consent form (provided) for your test candidate to sign. This should include permission to record the session including video, audio and their actions on screen depending on how you design your sessions.
 
-> Document: [consent form template document](UX-testing/consent_form.md). Amend and print for the test session.
+> Document: [consent form template document](consent_form.md). Amend as required.
 
-After the test session scan the signed document to `jpg`. This will be added to [Usability Testing Report](usability_testing_report.md).
+After the test session create a digital version of the signed document. This will be added to your group’s [Usability Testing Report](usability_testing_report.md).
 
 ---
 
@@ -51,9 +44,9 @@ After the test session scan the signed document to `jpg`. This will be added to 
 
 Create a simple exit survey (5 or 6 questions) to get further feedback from your test candidate. You can use Microsoft Forms to do this.
 
-The survey should be given to the test candidate (in paper form) at the end of the test session. Ask them to leave the room and to complete the survey before they leave.
+The survey should be given to the test candidate at the end of the test session.
 
-Use the results from the survey as part of your report. After the test session scan the signed document to `pdf`. Add to [Usability Testing Report](usability_testing_report.md).
+Use the results from the surveys as part of your report.
 
 ---
 
@@ -61,21 +54,7 @@ Use the results from the survey as part of your report. After the test session s
 
 During the test sessions you should be taking notes that you can share with the group.
 
-Use the [MSWord Mini User Journey](UX-testing/Mini-User-Journey.docx) form to record your notes/observations during your usability testing session (and any subsequent sessions).
-
-This form provides structure to your note taking. <!--  Prepare for the session: - Create a version of this form for each of your core tasks tasks (after the general walk through),entering the steps you expect the user to take, to attain their goal. - Print a number of copies of each task for the note takers. Note takers should complete the form, making notes of their observations during the session. -->
-
-> When completed, scan the notes to a single `pdf` document and add to the [Usability Testing Report](usability_testing_report.md).
-
-<!-- ---
-
-## Test session video
-
-We will capture the test session for you (screen, voice and face). After the sessions we will process the videos and make them available on Moodle for you review.
-
-Reviewing the video will help you better understand the results of your testing.
-
-You can use screenshots from the video as part of your [Usability Testing Report](usability_testing_report.md). -->
+> When completed, scan the notes and add to the [Usability Testing Report](usability_testing_report.md).
 
 ---
 
