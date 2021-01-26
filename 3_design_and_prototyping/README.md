@@ -42,7 +42,7 @@ To better understand [style guides see some examples at styleguides.io](http://s
 
 **Note** - It is likely that both the colour and typography will change over the life of the project. Ensure that the style guide is kept up to date to reflect the final design of the guide presented for SP5.
 
-> Document: [style_guide.md](style_guide.md)
+> Document: [style-guide.md](style-guide.md)
 
 _Your style guide will be reviewed and feedback provided at SP3. It is marked at SP5._
 
