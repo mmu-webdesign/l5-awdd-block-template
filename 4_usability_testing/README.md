@@ -20,7 +20,7 @@ Each team will have to record evidence of their usability testing. This may be a
 
 ### Assessment
 
-You will be assessed on your preparation and execution of usability testing (as per the [marking schedule](marksheets/sp4-marksheet.docx) ). A tutor will support you.
+You will be assessed on your preparation and execution of usability testing. A tutor will support you through the process.
 
 ---
 
@@ -78,7 +78,7 @@ Your usability testing report should collect all the data your group has found a
 
 Your usability testing report should then present an updated version of your page design that shows the insights you have gained from carrying out the user testing.
 
-> Document: [Usability Testing Report](usability_testing_report.md).
-> Document: [Page mockup update](page-mockup-update.md).
+- Document: [Usability Testing Report](usability_testing_report.md)
+- Document: [Page mockup update](page-mockup-update.md)
 
 ---
