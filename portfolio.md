@@ -67,11 +67,11 @@ Your finished website and the remaining elements of the portfolio:
 
 ### Quality Assurance (QA) elements
 
-- [Accessibility audit](5_QA_and_The_Guide/accessibility.pdf)
-- [Cross Browser testing](5_QA_and_The_Guide/browser_testing.md)
-- [Google translation testing report](5_QA_and_The_Guide/internationalisation.md)
-- [Quality audit](5_QA_and_The_Guide/quality_audit.md)
-- [Future developments](5_QA_and_The_Guide/future.md)
+- [Accessibility audit](5_QA_and_the_guide/accessibility.md)
+- [Cross Browser testing](5_QA_and_the_guide/browser_testing.md)
+- [Google translation testing report](5_QA_and_the_guide/internationalisation.md)
+- [Quality audit](5_QA_and_the_guide/quality_audit.md)
+- [Future developments](5_QA_and_the_guide/future.md)
 
 ### Advice on how to complete the QA documents
 
@@ -81,7 +81,7 @@ Your finished website and the remaining elements of the portfolio:
 - Quality audit · Asynchronous
 - Future developments · Synchronous
 
-## Final Documentation and individual statements · Before submission
+## SP5 Final Documentation and individual statements · Before submission
 
 - **Peer assessment** forms to be completed in class as required.
-- Each team member must upload their [individual statement](5_QA_and_The_Guide/individual_statement.docx) to the relevant dropbox on Moodle.
+- Each team member must upload their individual statement to the relevant dropbox on Moodle. Use this [individual statement template](5_QA_and_the_guide/individual_statement.docx) as a guide to completing your statement.
