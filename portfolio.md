@@ -54,8 +54,8 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 
 ## Documents created for SP4 · Begin Week 10
 
-- [Usability Testing Report](4_Usability_Testing/usability_testing_report.md)
-- [Page mockup update](4_Usability_Testing/page-mockup-update.md)
+- [Usability Testing Report](4_usability_testing/usability_testing_report.md)
+- [Page mockup update](4_usability_testing/page-mockup-update.md)
 
 ### Advice on how to complete these documents
 
