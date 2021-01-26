@@ -24,8 +24,6 @@ As a student group, to maximise the potential for a good mark you need to:
 
 ### Final Documentation
 
-<!-- - [Sprint sheets](#Sprint-sheets) -->
-
 - [Peer assessment](#Peer-assessment) as required
 - [Individual statements](#Individual-statement)
 
@@ -47,9 +45,9 @@ Three documents are provided.
 1.  Skip links implemented on all pages
 1.  Accessible form(s)
 
-Create a single document containing your completed checklist and comments document. Format - pdf file.
+Create a single document containing your completed checklist and comments document.
 
-> Document: [accessibility.pdf](accessibility.pdf)
+> Document: [accessibility.md](accessibility.md)
 
 ---
 
@@ -66,14 +64,6 @@ Copy the screenshots to the template provided and add comments regarding any fin
 Illustrate any corrections (showing before and after) - if you've spotted an error, fix it, re-test, screenshot, comment.
 
 > Document: [browser_testing.md](browser_testing.md).
-
----
-
-## Usability testing report
-
-A reminder to update your usability testing report with details and evidence of any further testing before submission.
-
-> Document: [Usability Testing Report](../4_Usability_Testing/usability_testing_report.md).
 
 ---
 
@@ -101,9 +91,7 @@ Validate and audit your CSS (looking for unused, redundant CSS).
 
 Validate your HTML. Review your HTML - has it maintained a strong semantic structure? Look for simple negative things, like overuse of the `<br>` tag to create space (rather than using CSS as you should).
 
-Writing
-
-#### Tools to use
+### Tools to try
 
 1.  [Checkbot - Chrome extension](https://www.checkbot.io)
 1.  [Google Test my site](https://testmysite.withgoogle.com)
@@ -124,7 +112,7 @@ A single team statement on possible ways the site could be further developed for
 
 **Warning:** if you simply list a number of features that could have been implemented as part of your submission, then you are simply highlighting your failings as a team.
 
-250 words (+/- 10%)
+Word count: 250 words (+/- 10%)
 
 > Document: [future.md](future.md)
 
@@ -138,8 +126,6 @@ There are three remaining elements to complete the portfolio.
 
 A percentage of the assignment marks are available for peer review. A team that has worked well would elect to share the marks evenly. A team that has one or more team members who have not fully contributed to the project can agree, as a team to redistribute the marks. More will be explained in class.
 
-Printed copies of the forms will be supplied in the final class.
-
 ---
 
 ### Individual statements
@@ -148,13 +134,9 @@ This is a chance to discuss how you and your colleagues managed the project, wha
 
 As this statement is personal you are not required to display this as part of the Portfolio. Each statement is submitted to an individual dropbox on Moodle.
 
-- 500 words (+/- 10%).
+- Word count 500 words (+/- 10%).
 - Use the [template MSWord document for your individual statement](individual_statement.docx).
 - Each team member must upload their individual statement the the relevant dropbox on Moodle.
-- Upload as a `pdf`. Use the following format: `team-number_mmuID.pdf` e.g. `01_99883344.pdf`
-
----
-
-[Return to top](<#Quality-Assurance-(QA)-and-The-Guide>)
+- Upload as a `pdf`. Use the following format: `groupNumber-mmuID.pdf` e.g. `group1-99883344.pdf`
 
 ---

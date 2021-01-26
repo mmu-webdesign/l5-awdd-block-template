@@ -1,18 +1,18 @@
 # Quality Audit
 
-Including.
+Including...
 
-## HTMl Validation
+## HTML Validation
 
 Quality and efficiency of your code. If you have implemented code that does not validate you need to explain why.
 
 ## CSS Validation
 
-Quality and efficiency. 
+Quality and efficiency.
 
 ## Speed test (inc. optimisation of code and media)
 
-Download speeds. Are there any *blockers*. Are images optimised?
+Download speeds. Are there any _blockers_. Are images optimised?
 
 ## Readability testing
 
@@ -22,4 +22,4 @@ Also test your grammar and spelling as this will lose you credibility (**and mar
 
 ## SEO
 
-Review your metadata (Checkbot will help)  including page titles, meta description, link text, use of headings, use of keywords in your text.
+Review your metadata (Checkbot will help) including page titles, meta description, link text, use of headings, use of keywords in your text.

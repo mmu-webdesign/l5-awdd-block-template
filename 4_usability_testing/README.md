@@ -18,8 +18,8 @@ Feedback from someone outside of your team can be invaluable to improve your wor
 
 ### Essential Documents
 
-- [Usability Test Instructions](ux-testing/usability_test_instructions.md).
-- [Usability Test tips & advice](ux-testing/usability_testing_tips.md).
+- [Usability Test Instructions](UX-testing/usability_test_instructions.md).
+- [Usability Test tips & advice](UX-testing/usability_testing_tips.md).
 
 ### How does this work?
 
@@ -27,15 +27,7 @@ Each team will have to record evidence of their usability testing. This may be a
 
 ### Assessment
 
-You will be assessed on your preparation and execution of the usability testing session (as per the [marking schedule](marksheets/sp4-marksheet.docx) ). A tutor will support you.
-
----
-
-## SP4 Planning document
-
-Use the planning document to prepare and record the meeting.
-
-> Document: [sp4-planning.md](sp4-planning.md)
+You will be assessed on your preparation and execution of usability testing (as per the [marking schedule](marksheets/sp4-marksheet.docx) ). A tutor will support you.
 
 ---
 
@@ -49,7 +41,7 @@ You are required to develop a method for your test session. This may be face to 
 
 Customise the consent form (provided) for your test candidate to sign. This should include permission to record the session including video, audio and their actions on screen.
 
-> Document: [consent form template document](ux-testing/consent_form.md). Amend and print for the test session.
+> Document: [consent form template document](UX-testing/consent_form.md). Amend and print for the test session.
 
 After the test session scan the signed document to `jpg`. This will be added to [Usability Testing Report](usability_testing_report.md).
 
@@ -108,9 +100,6 @@ Your usability testing report should collect all the data your group has found a
 Your usability testing report should then present an updated version of your page design that shows the insights you have gained from carrying out the user testing.
 
 > Document: [Usability Testing Report](usability_testing_report.md).
-
----
-
-[Return to top](#Usability-Testing)
+> Document: [Page mockup update](page-mockup-update.md).
 
 ---

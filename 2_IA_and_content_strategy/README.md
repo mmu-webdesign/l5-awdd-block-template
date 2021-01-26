@@ -8,10 +8,63 @@ The following documents should be presented. Note that they are not being finall
 
 Final versions of these documents are assessed at the final submission.
 
+- [Personas](#Personas)
+- [Storyboards](#Storyboards)
 - [Information Architecture Report](#Information-Architecture-Report)
 - [Site Plan](#site-plan)
 - [Content Delivery Schedule](#content-delivery-schedule)
 - [Database Schema](#Database-schema)
+
+---
+
+## Personas
+
+User Personas - Create 3 user personas based on the user types your research indicates you might expect to use your guide.
+
+**One must be an international visitor to your site**. Maybe you could also include a disabled visitor but this must be based on your research, not a guess.
+
+We prefer you to be creative and develop your own personas over using a template site. If you use a template make sure you customise the output.
+
+### Instructions:
+
+- Output each of your personas as .jpg or .png files
+- Ensure the files are at least 1000px wide
+- Save to the sp2-media folder
+- Embed each persona image (using the code provided) in `personas.md`
+
+> Document: [personas.md](personas.md)
+
+_Your personas will be reviewed and feedback provided at SP2. They are marked at SP5._
+
+---
+
+## User Storyboards
+
+> STORYBOARDING, a technique used in the film-making industry, is a way of conveying a story to teams and stakeholders, as well as a way to explore the best way to tell the story visually before spending a lot of money producing it. [Bryant Hodson](https://uxdesign.cc/how-to-storyboard-experiences-fc051e2bc04d)
+
+Create a simple storyboard (6 or 8 cells) for each of your personas. Illustrate how they might each interact with your guide. This could be an illustration of their touch points and interactions with your guide throughout the day, or perhaps during a term?
+
+This will help the team think about how your users are going to use and interact with your guide.
+
+To learn more read [Storyboards Help Visualize UX Ideas
+by Rachel Krause ](https://www.nngroup.com/articles/storyboards-visualize-ideas/).
+
+Rachel also has a video - [How to Create a UX Storyboard](https://youtu.be/bNh54LNUtv8).
+
+### Instructions:
+
+- Create your persona on paper or digitally depending on your skills. It does not have to be 'high fidelity'.
+- The above article includes a template you can print, or shows how post-its can be used in a collaborative manner.
+- Add captions to each frame.
+- If on paper, scan rather than photograph for better results.
+- Output each of your storyboards as .jpg or .png files
+- Ensure the files are at least 1900px wide
+- Save to the sp2-media folder
+- Embed each storyboard image (using the code provided) in `storyboards.md`
+
+> Document: [storyboards.md](storyboards.md)
+
+_Your storyboards will be reviewed and feedback provided at SP2. They are marked at SP5._
 
 ---
 
@@ -31,7 +84,7 @@ Read [Tree Testing 101: Your guide to creating and running effective tree tests]
 
 ### Report
 
-Write a short (800 words max) illustrated report on the process and results of both the card sort and tree testing exercises.
+Write a short (800 words maximum) illustrated report on the process and results of both the card sort and tree testing exercises.
 
 > Document: [ia-report.md](ia-report.md)
 
@@ -50,7 +103,7 @@ You should use the format illustrated in class created in PowerPoint, use a flow
 ### Instructions:
 
 - Output each of your site plan(s) as .jpg or .png files
-- Ensure the files are at least 1900px wide
+- Ensure the files are at least 1000px wide
 - Save to the sp2-media folder
 - Embed each site plan using the code provided in `siteplan.md`
 - add commentary as directed.
@@ -103,16 +156,6 @@ Your site needs to hold some of its content in a database – news items, list o
 
 We also need you to create a sketch in code or on paper of how these database fields will be shown on the site on a ‘list page’ and a ‘detail’ page – e.g. the ‘list page’ would list all the cheeses, and the detail page would have all the information about one type of cheese – what does it look like, where can I buy it, who makes it, etc.
 
-Add the database schema to
-
-### SP2 meeting
-
-Bring your schema ideas to the meeting to discuss with tutors. Any output can then be scanned and saved as a pdf.
-
-> Document: depending on the software you're using, upload this as `schema.xslx` (Excel spreadsheet) or `schema.pdf` (e.g. output from SQL workbench). Save to the `2_IA_and_Content_Strategy` folder.
-
----
-
-[Return to top](<#Information-Architecture-(IA)-&-Content-Strategy>)
+Add the database schema to [database-schema.md](database-schema.md).
 
 ---

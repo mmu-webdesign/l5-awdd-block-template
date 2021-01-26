@@ -6,7 +6,6 @@ SP3 is an assessed feedback session with tutors. Use the planning document as a 
 
 The following documents should be presented. Note that they are not being finally assessed. This is a chance to get formative feedback on your progress.
 
-- [SP3 planning document](#SP3-planning-document)
 - [Mood boards](#mood-boards)
 - [Style Guide](#style-guide)
 - [Page Design](#page-design)
@@ -43,7 +42,7 @@ To better understand [style guides see some examples at styleguides.io](http://s
 
 **Note** - It is likely that both the colour and typography will change over the life of the project. Ensure that the style guide is kept up to date to reflect the final design of the guide presented for SP5.
 
-> Document: [style_guide.html](styleguide/style_guide.html)
+> Document: [style_guide.md](style_guide.md)
 
 _Your style guide will be reviewed and feedback provided at SP3. It is marked at SP5._
 
@@ -99,12 +98,8 @@ Record their comments, discuss as a group - do they love your design? Have they 
 
 Each group member will add their design plus the group's _final design_ to the file:
 
-> Document: [parallel-designs.md](parallel-designs.md)
+> Document: [page-mockup.md](page-mockup.md)
 
 _Your designs will be reviewed and feedback provided at SP3. They are marked at SP5._
-
----
-
-[Return to top](#Design-and-Prototyping)
 
 ---

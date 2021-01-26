@@ -1,18 +1,20 @@
 # Information Architecture Report
 
-## Cart sort
+**Word count** 800 words maximum
+
+## Card sort
 
 ### Introduction
 
 Illustrated account of your process.
 
-*Insert images/illustrations using `<img>` including photographic evidence of the testing sessions*.
+_Insert images/illustrations using `<img>` including photographic evidence of the testing sessions_.
 
 ### List of the card elements
 
-* oranges
-* bananas
-* etc.
+- oranges
+- bananas
+- etc.
 
 ### Cart sort results
 
