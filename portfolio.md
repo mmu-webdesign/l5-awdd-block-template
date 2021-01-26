@@ -7,7 +7,7 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 - [Ideation report](1_user_and_competitor_research/ideation.md)
 - [Initial User Research report](1_user_and_competitor_research/user-research.md)
 - [Client proposal](1_user_and_competitor_research/proposal.md)
-- [Competitor analysis](1_user_and_competitor_research/competitor-analysis.docx)
+- [Competitor analysis](1_user_and_competitor_research/competitor-analysis.docx) (MS Word document)
 
 ### Advice on how to complete these documents
 
@@ -28,7 +28,7 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 - [Storyboards](2_IA_and_content_strategy/storyboards.md)
 - [Information Architecture (IA) report](2_IA_and_content_strategy/ia-report.md)
 - [Site plan](2_IA_and_content_strategy/siteplan.md)
-- [Content Delivery Schedule](2_IA_and_content_strategy/content-delivery-schedule.xlsx)
+- [Content Delivery Schedule](2_IA_and_content_strategy/content-delivery-schedule.xlsx) (MS Excel file)
 - [Database Schema](2_IA_and_content_strategy/database-schema.md)
 
 ### Advice on how to complete these documents
