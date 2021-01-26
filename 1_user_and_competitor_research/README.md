@@ -8,14 +8,10 @@ The following documents should be presented. Note that they are not being finall
 
 > These documents are assessed at the final submission.
 
-<!-- - [SP1 planning document](#sp1-planning-document) -->
-
 - [Ideation Report](#Ideation-Report)
 - [User Research Report](#User-Research-Report)
 - [The Proposal](#The-Proposal)
 - [Competitor Analysis](#Competitor-Analysis)
-- [Personas](#personas)
-- [User Storyboards](#user-storyboards)
 
 First, a few words about our use of Markdown and GitHub.
 
@@ -50,18 +46,6 @@ GitHub is one of those things you _just need to know_ in digital. It can be comp
 Used correctly, making use of GitHub at the very least ensures all of your work is backed up.
 
 > **Final word** - GitHub provides tutors (and team members) an unparalleled insight into the contributions of each team member.
-
----
-
-## SP1 planning document
-
-Use the planning document to prepare and consider how to create these documents.
-
-> Document: [sp1-planning.md](sp1-planning.md)
-
-- At Submission Point 1 we will review the current version of your documents and provide feedback and guidance. You should take the opportunity after SP1 to use our feedback to improve your submission.
-- Use subsequent meetings to show us revised versions.
-- Based on our feedback you may feel that your group has got it right first time! Job done.
 
 ---
 
@@ -118,60 +102,3 @@ Analyse the 3 sites using the criteria on the Competitor Analysis document provi
 > Document: [competitor-analysis.docx ](competitor-analysis.docx) provided.
 
 _Your competitor analysis will be reviewed and feedback provided at SP1. It is marked at SP5._
-
----
-
-## Personas
-
-User Personas - Create 3 user personas based on the user types your research indicates you might expect to use your guide.
-
-One must be an international visitor to your site. Maybe you could also include a disabled visitor but this must be based on your research, not a guess.
-
-We prefer you to be creative and develop your own personas over using a template site. If you use a template make sure you customise the output.
-
-### Instructions:
-
-- Output each of your personas as .jpg or .png files
-- Ensure the files are at least 1900px wide
-- Save to the sp2-media folder
-- Embed each persona image (using the code provided) in `personas.md`
-
-> Document: [personas.md](personas.md)
-
-_Your personas will be reviewed and feedback provided at SP2. They are marked at SP5._
-
----
-
-## User Storyboards
-
-> STORYBOARDING, a technique used in the film-making industry, is a way of conveying a story to teams and stakeholders, as well as a way to explore the best way to tell the story visually before spending a lot of money producing it. [Bryant Hodson](https://uxdesign.cc/how-to-storyboard-experiences-fc051e2bc04d)
-
-Create a simple storyboard (6 or 8 cells) for each of your personas. Illustrate how they might each interact with your guide. This could be an illustration of their touch points and interactions with your guide throughout the day, or perhaps during a term?
-
-This will help the team think about how your users are going to use and interact with your guide.
-
-To learn more read [Storyboards Help Visualize UX Ideas
-by Rachel Krause ](https://www.nngroup.com/articles/storyboards-visualize-ideas/).
-
-Rachel also has a video - [How to Create a UX Storyboard](https://youtu.be/bNh54LNUtv8).
-
-### Instructions:
-
-- Create your persona on paper or digitally depending on your skills. It does not have to be 'high fidelity'.
-- The above article includes a template you can print, or shows how post-its can be used in a collaborative manner.
-- Add captions to each frame.
-- If on paper, scan rather than photograph for better results.
-- Output each of your storyboards as .jpg or .png files
-- Ensure the files are at least 1900px wide
-- Save to the sp2-media folder
-- Embed each storyboard image (using the code provided) in `storyboards.md`
-
-> Document: [storyboards.md](storyboards.md)
-
-_Your storyboards will be reviewed and feedback provided at SP2. They are marked at SP5._
-
----
-
-[Return to top](#User-&-Competitor-Research)
-
----

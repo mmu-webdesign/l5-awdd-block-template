@@ -1,6 +1,6 @@
 # Ideation Report
 
-300 Word max
+**Word count** 300 words maximum
 
 Describe and illustrate your ideation process. Describe the techniques use and report on the output/results.
 
