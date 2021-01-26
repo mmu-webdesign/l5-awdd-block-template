@@ -103,6 +103,8 @@ Your site needs to hold some of its content in a database – news items, list o
 
 We also need you to create a sketch in code or on paper of how these database fields will be shown on the site on a ‘list page’ and a ‘detail’ page – e.g. the ‘list page’ would list all the cheeses, and the detail page would have all the information about one type of cheese – what does it look like, where can I buy it, who makes it, etc.
 
+Add the database schema to
+
 ### SP2 meeting
 
 Bring your schema ideas to the meeting to discuss with tutors. Any output can then be scanned and saved as a pdf.
