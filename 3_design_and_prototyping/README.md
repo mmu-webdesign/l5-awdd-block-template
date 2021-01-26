@@ -11,12 +11,6 @@ The following documents should be presented. Note that they are not being finall
 - [Style Guide](#style-guide)
 - [Page Design](#page-design)
 
-## SP3 planning document
-
-Use the planning document to prepare.
-
-> Document: [sp3-planning.md](sp3-planning.md)
-
 ## Mood boards
 
 To kick off the design process, each team member should create a mood board to collate influences and ideas for their design. The influences may be digital or physical and might include elements such as colour and typography.

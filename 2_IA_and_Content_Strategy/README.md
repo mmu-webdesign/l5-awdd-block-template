@@ -15,14 +15,6 @@ Final versions of these documents are assessed at the final submission.
 
 ---
 
-## SP2 planning document
-
-As per SP1, use the planning document to prepare your content.
-
-> Document: [sp2-planning.md](sp2-planning.md)
-
----
-
 ## Information Architecture Report
 
 Information Architecture Report - The team must carry out and record both an **Open Card Sort** and **Tree Testing** exercises to inform your initial site architecture. This will be illustrated as a site plan.

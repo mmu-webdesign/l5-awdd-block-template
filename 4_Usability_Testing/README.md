@@ -6,11 +6,6 @@ In SP4 each team undertakes a usability testing session, self-managed, but overs
 
 **First - [Read through the instructions](#instructions)**
 
-<!-- * [SP4 planning document](#SP4-planning-document)
-* [Your test script](#test-script)
-* [User testing consent form](#consent-form)
-* [Usability testing report](#usability-testing-report) -->
-
 ## Instructions
 
 ### About
