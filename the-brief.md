@@ -12,14 +12,14 @@ You will develop an initial idea for your ‘guide’ in the early stages of the
 
 ## Key requirements
 
-- A modern, attractive website - 25 web pages, a minimum of 10.
+- A modern, attractive website - roughly around 25 web pages, a minimum of 10. We realise that sometimes a single page can require a lot of work or collect a lot of information, so talk to us about how your website will reach the required standard.
 - Focus your guide on one topic, to be confirmed with the client.
 - Creation of an original logo.
-- An attractive, contemporary design.
-- Creation of original media.
+- An attractive, contemporary design. Consider your website as separate from any other part of the Manchester Met web presence, so your site should not follow the design cues of the MMU website.
+- Creation of original media where possible.
 - High quality media including images and original text.
 - All media must be sourced or created by your team within the guidelines set by the client.
-- Your site must be built with responsive web design principles.
+- Your site must be built with responsive web design principles. Test this as you code.
 - The site should be highly usable, following the _design for all_ ethos.
 - Accessibility: you must conform to Web Content Accessibility Guidelines (WCAG) 2.1.
 - SEO (Search Engine Optimization) - all pages should have relevant titles and meta descriptions for good SEO. All written content should be written with SEO in mind (use of keywords, link text etc.).

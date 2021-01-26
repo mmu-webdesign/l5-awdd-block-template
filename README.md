@@ -22,7 +22,9 @@
 
 > **IMPORTANT -[Read the assignment overview - The brief](the-brief.md)**.
 
-The project is broken down into 5 separate submission points. Submission Point 5 is the final submission date from which the whole project (your Guide website and this portfolio of documents) is assessed.
+The project is broken down into 5 separate submission points. Each one is design to provide feedback on the progress of your project.
+
+Submission Point 5 is the final submission date from which the whole project (your Guide website and this portfolio of documents) is assessed.
 
 SP1-4 are check points to provide 'formative' feedback. Each of these are worth marks for engagement and professionalism.
 
@@ -32,11 +34,11 @@ Ultimately (submission point 5) you will be submitting this repository which wil
 
 These documents outline what you need to prepare before each submission point. You will be working on these in class. If you have any questions about these tasks, please ask us.
 
-- [Submission Point 1](1_User_and_Competitor_Research/README.md) - User and Competitor research
-- [Submission Point 2](2_IA_and_Content_Strategy/README.md) - IA and Content Strategy
-- [Submission Point 3](3_Design_&_Prototyping/README.md) - Design and Prototyping
-- [Submission Point 4](4_Usability_Testing/README.md) - Usability testing
-- [Submission Point 5](5_QA_and_The_Guide/README.md) - The completed Portfolio and The Guide (the website)
+- [Submission Point 1](1_user_and_competitor_research/README.md) - User and Competitor research
+- [Submission Point 2](2_IA_and_content_strategy/README.md) - IA and Content Strategy
+- [Submission Point 3](3_design_and_prototyping/README.md) - Design and Prototyping
+- [Submission Point 4](4_usability_testing/README.md) - Usability testing
+- [Submission Point 5](5_QA_and_the_guide/README.md) - Acceptance testing, individual statements, and the completed Portfolio and Guide website
 
 ## Submission point marksheets
 

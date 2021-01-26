@@ -8,8 +8,6 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 - [Initial User Research report](1_User_and_Competitor_Research/user-research.md)
 - [Client proposal](1_User_and_Competitor_Research/proposal.md)
 - [Competitor analysis](1_User_and_Competitor_Research/competitor-analysis.docx)
-- [Personas](1_User_and_Competitor_Research/personas.md)
-- [Storyboards](1_User_and_Competitor_Research/storyboards.md)
 
 ### Advice on how to complete these documents
 
@@ -23,11 +21,11 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 - User research · Asynchronous
 - Proposal · Asynchronous
 - Competitor Analysis · Asynchronous
-- Personas · Asynchronous
-- Storyboards · Asynchronous
 
 ## Documents presented for SP2 · Week 6
 
+- [Personas](1_User_and_Competitor_Research/personas.md)
+- [Storyboards](1_User_and_Competitor_Research/storyboards.md)
 - [Information Architecture (IA) report](2_IA_and_Content_Strategy/ia-report.md)
 - [Site plan](2_IA_and_Content_Strategy/siteplan.md)
 - [Content Delivery Schedule](2_IA_and_Content_Strategy/content-delivery-schedule.xlsx)
@@ -35,6 +33,8 @@ For Submission Point 5 all of the following documents (i.e. anything with a link
 
 ### Advice on how to complete these documents
 
+- Personas · Asynchronous
+- Storyboards · Asynchronous
 - IA report · Synchronous
 - Siteplan · Synchronous
 - Content delivery schedule · Asynchronous
