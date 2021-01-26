@@ -1,0 +1,102 @@
+/* COLOURS */
+
+
+/* the colours for your website */
+
+
+/* delete what you don't need */
+
+
+/* use swatch 1 for your most important colour, swatch 2 for the next, and so on */
+
+.swatch-1 {
+    background: #ff9900;
+}
+
+.swatch-2 {
+    background: black;
+}
+
+.swatch-3 {
+    background: grey;
+}
+
+.swatch-4 {
+    background: orange;
+}
+
+.swatch-5 {
+    background: pink;
+}
+
+.swatch-6 {
+    background: purple;
+}
+
+.swatch-7 {
+    background: blue;
+}
+
+
+/* TYPOGRAPHY
+/* the typography for your website */
+
+
+/* delete the ones you don't need */
+
+.type-1 {
+    font-family: 'Monoton', cursive;
+    /* google font */
+}
+
+.type-2 {
+    font-family: avenir, arial, sans-serif;
+    /* example of 'web safe' font */
+}
+
+.type-3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/* TEMPLATES/CODE SNIPPETS */
+
+
+/* an example of the extra code you could add - this creates some buttons */
+
+a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    border: 1px solid red;
+    margin-right: 10px;
+    margin-bottom: 1em;
+    border-radius: 0.2em;
+    transition: all 0.2s ease;
+}
+
+a.button.important {
+    font-size: 1.2em;
+    background: red;
+    color: white;
+    padding: 15px 30px;
+}
+
+a.button.normal {
+    color: red;
+}
+
+a.button.less {
+    color: grey;
+}
+
+a.button:hover {
+    border-color: maroon;
+    color: #222;
+}
+
+a.button.important:hover {
+    color: white;
+    background: maroon;
+}
